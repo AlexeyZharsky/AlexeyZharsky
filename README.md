@@ -1,7 +1,7 @@
-## 👋 Привет, я Алексей — начинающий Frontend-разработчик
+## 👋 Привет, я Алексей — начинающий web-разработчик
 
 📌 **Стек:** React, TypeScript, Redux Toolkit 
-🔭 **Ищу:** Позицию Junior Frontend Developer (удаленно / гибрид)  
+🔭 **Ищу:** Позицию Junior Frontend/Fullstack Developer (удаленно / гибрид)  
 📫 **Связь:** [Telegram @zharskyi] | [alexeyzharsky@gmail.com]  
 
 ---
