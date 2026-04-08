@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 Привет, я Алексей — начинающий Frontend-разработчик
 
-<!--
-**AlexeyZharsky/AlexeyZharsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📌 **Стек:** React, TypeScript, Redux Toolkit 
+🔭 **Ищу:** Позицию Junior Frontend Developer (удаленно / гибрид)  
+📫 **Связь:** [Telegram @zharskyi] | [alexeyzharsky@gmail.com]  
 
-Here are some ideas to get you started:
+---
+### 💻 Чем я занимаюсь прямо сейчас:
+- Углубляюсь в JS/TS, React, Node.js.
+- Решаю задачи на [Leetcode](https://leetcode.com/u/ZVZo4RFGHH/) (ранг 5 kyu).
+- Активно изучаю мобильную разработку: экспериментирую со связкой Expo Go, Firebase и Zustand для создания кросс-платформенных приложений на React Native.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Открыт к предложениям стажировки и оплачиваемым тестовым заданиям.*
