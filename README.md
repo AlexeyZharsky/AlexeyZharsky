@@ -1,13 +1,15 @@
-## 👋 Привет, я Алексей — начинающий web-разработчик
+## I'm junior fullstack developer focused on building web applications.
 
-📌 **Стек:** React, TypeScript, Redux Toolkit 
-🔭 **Ищу:** Позицию Junior Frontend/Fullstack Developer (удаленно / гибрид)  
-📫 **Связь:** [Telegram @zharskyi] | [alexeyzharsky@gmail.com]  
+## 🛠 Tech stack
+Frontend: React, TypeScript, JavaScript (ES6+), HTML, CSS
+Backend: Node.js, Express
+Databases: PostgreSQL / MongoDB
+Tools: Git, Docker, REST API, Vite
 
----
-### 💻 Чем я занимаюсь прямо сейчас:
-- Углубляюсь в JS/TS, React, Node.js.
-- Решаю задачи на [Leetcode](https://leetcode.com/u/ZVZo4RFGHH/).
-- Активно изучаю мобильную разработку: экспериментирую со связкой Expo Go, Firebase и Zustand для создания кросс-платформенных приложений на React Native.
+## 📌 What I'm doing now
+Building fullstack applications (React + Node.js)
+Learning backend architecture and API design
+Improving my skills in TypeScript and databases
 
+[Telegram @zharskyi] | [alexeyzharsky@gmail.com]  [Leetcode](https://leetcode.com/u/ZVZo4RFGHH/).
 *Открыт к предложениям стажировки и оплачиваемым тестовым заданиям.*
