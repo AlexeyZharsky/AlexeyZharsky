@@ -3,7 +3,7 @@
 ## 🛠 Tech stack
 - Frontend: React, TypeScript, JavaScript (ES6+), HTML, CSS
 - Backend: Node.js, Express
-- Databases: PostgreSQL / MongoDB
+- Databases: PostgreSQL / MSSQL / Oracle / MongoDB
 - Tools: Git, Docker, REST API, Vite
 
 ## 📌 What I'm doing now
